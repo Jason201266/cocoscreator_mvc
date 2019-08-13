@@ -1,0 +1,7 @@
+library
+local
+temp
+plugin-resource
+.vscode
+packages
+*.meta
